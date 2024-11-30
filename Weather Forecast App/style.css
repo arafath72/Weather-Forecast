@@ -112,7 +112,6 @@ body::before{
 }
 .forecast-details{
     display: flex;
-    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
     gap: 15px;
     overflow-x: scroll;
     margin-top: 30px;
